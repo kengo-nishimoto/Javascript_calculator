@@ -1,19 +1,32 @@
 input {
   background-color: black;
   color: white;
-  width: 500px;
+  width: 510px;
   height: 50px;
+  text-align: right;
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
 button {
   padding: 5px 10px;
-  font-size: 12px;
-  font-weight: bold;
+  font-size: 25px;
   background-color: #DDDDDD;
   border: 1px solid;
   border-color: gray;
-  border-radius: 3px;
-  text-decoration: none;
+  border-radius: 5px;
   height: 50px;
-  width: 60px;
+  width: 125px;
+  margin-bottom: 5px;
+}
+.button2 {
+  padding: 5px 10px;
+  font-size: 25px;
+  background-color: #DDDDDD;
+  border: 1px solid;
+  border-color: gray;
+  border-radius: 5px;
+  height: 50px;
+  width: 255px;
+  margin-bottom: 5px;
 }
